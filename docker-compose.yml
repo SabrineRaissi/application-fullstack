@@ -23,7 +23,7 @@ services:
 
   # Backend Spring Boot
   backend:
-    build: ./monprojet
+    build: ./demo
     container_name: app-backend
     ports:
       - "8080:8080"
