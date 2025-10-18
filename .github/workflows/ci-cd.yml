@@ -31,7 +31,7 @@ jobs:
     
     - name: Build with Maven
       run: |
-        cd monprojet
+        cd demo
         chmod +x mvnw
         ./mvnw clean package -DskipTests
     
