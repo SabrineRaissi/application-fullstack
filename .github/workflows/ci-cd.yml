@@ -37,7 +37,7 @@ jobs:
     
     - name: Run tests
       run: |
-        cd monprojet
+        cd demo
         ./mvnw test
 
   # Job 2: Build et Test Frontend
