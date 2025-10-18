@@ -1,0 +1,26 @@
+# Backend (Spring Boot)
+monprojet/target/
+monprojet/.mvn/
+monprojet/mvnw
+monprojet/mvnw.cmd
+monprojet/.idea/
+monprojet/*.iml
+monprojet/.vscode/
+
+# Frontend (Angular)
+frontend-app/node_modules/
+frontend-app/dist/
+frontend-app/.angular/
+frontend-app/.vscode/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
