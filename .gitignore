@@ -1,11 +1,11 @@
 # Backend (Spring Boot)
-monprojet/target/
-monprojet/.mvn/
-monprojet/mvnw
-monprojet/mvnw.cmd
-monprojet/.idea/
-monprojet/*.iml
-monprojet/.vscode/
+demo/target/
+demo/.mvn/
+demo/mvnw
+demo/mvnw.cmd
+demo/.idea/
+demo/*.iml
+demo/.vscode/
 
 # Frontend (Angular)
 frontend-app/node_modules/
