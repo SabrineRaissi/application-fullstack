@@ -94,7 +94,7 @@ jobs:
     
     - name: Test Docker Compose
       run: |
-        docker-compose config
+        docker compose config
 
   # Job 4: Security Scan (Bonus)
   security:
