@@ -1,4 +1,4 @@
-# 🚀 User Management Full Stack Application
+# 🚀 User Management Full Stack Application: Angular-18-Spring-Boot-CRUD-Full-Stack-App_docker-chatbot
 
 [![CI/CD]https://github.com/SabrineRaissi/application-fullstack/actions
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
@@ -428,3 +428,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ---
 
 ⭐ **Si ce projet vous a aidé, n'oubliez pas de lui mettre une étoile !** ⭐
+
